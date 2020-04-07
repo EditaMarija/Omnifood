@@ -2,4 +2,4 @@
 
 Omnifood is a premium food delivery company that delivers healthy meals to its subscribers. The website is meant as a gateway to the company's phone app.
 
-![alt text](img/screenshot.png "Screenshot")
+![alt text](https://github.com/EditaMarija/Omnifood/blob/master/resources/img/logo-white.png)
