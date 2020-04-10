@@ -20,6 +20,9 @@ body{
     text-rendering: optimizeLegibility;
     overflow-x: hidden;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 .clearfix {zoom: 1;}
 
