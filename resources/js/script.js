@@ -1,5 +1,7 @@
 /* global $ */
-/* eslint-env jquery*/
+/* eslint-env jquery */
+
+
 $(document).ready(function() {
     
     /* For the sticky navigation */
