@@ -1,6 +1,6 @@
 # Omnifood
 
-**Omnifood is a premium food delivery service with a mission to bring affordable and healthy meals to as many people as possible.**
+*Omnifood is a premium food delivery service with a mission to bring affordable and healthy meals to as many people as possible.*
   
 Website project created following an Udemy course 'Build Responsive Real World Websites with HTML5 and CSS3'.
 
