@@ -6,4 +6,6 @@ Website project created following an Udemy course 'Build Responsive Real World W
 
 
 ![screenshot](https://user-images.githubusercontent.com/52567746/78704556-b15a1880-7914-11ea-8586-5115be896aba.png)
-
+--
+## Demo:
+https://editamarija.github.io/Omnifood/
