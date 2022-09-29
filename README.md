@@ -7,5 +7,5 @@
 
 Website project created following an Udemy course 'Build Responsive Real World Websites with HTML5 and CSS3'.
 
-## Demo:
-https://editamarija.github.io/Omnifood/
+<a href="https://editamarija.github.io/Omnifood/" target="_blank">Demo</a>
+
